@@ -1,0 +1,4 @@
+model/
+model_fine_tune/
+.ipynb_checkpoints/
+.idea/
